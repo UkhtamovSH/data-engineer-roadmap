@@ -170,3 +170,5 @@
 
 ## Roadmap
 ![Roadmap](../DataEngRoadmap.png)
+
+![alt text](https://github.com/UkhtamovSH/data-engineer-roadmap/blob/master/DataEngRoadmap.png?raw=true)
