@@ -170,4 +170,4 @@
 
 
 ## Roadmap
-![Roadmap](./DataEngRoadmap.png](https://github.com/ErdemOzgen/Data-Engineering-Roadmap/raw/main/DataEngRoadmap.png)
+![Roadmap](./DataEngRoadmap.png)
