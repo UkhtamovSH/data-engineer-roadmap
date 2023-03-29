@@ -167,3 +167,7 @@
 * CI/CD
 	* GitHub Actions [general recommendation]
 	* Jenkins [general recommendation]
+
+
+## Roadmap
+![Roadmap]([./DataEngRoadmap.png](https://github.com/ErdemOzgen/Data-Engineering-Roadmap/raw/main/DataEngRoadmap.png))
