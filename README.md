@@ -1,5 +1,5 @@
 # data-engineer-roadmap
-
+https://devdojo.com/bobbyiliev/the-data-engineer-roadmap
 # Data Engineer in 2021
 
 * CS fundamentals
